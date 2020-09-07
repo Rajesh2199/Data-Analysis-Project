@@ -8,6 +8,11 @@ Revenue = [10,15,9,5,20,30,40]
 
 # bar argument plots data. 
 
-pl.bar(x=np.arange(1,21),height=['Revenue'])
+pl.bar(Year, Revenue)
+
+pl.xticks( Year)
+pl.xlabel("Year")
+pl.ylabel("Revenue")
+pl.title("Dummy Chart")
 
 pl.show()
