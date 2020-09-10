@@ -13,7 +13,7 @@ pl.bar(x = Year, height =Revenue, color=barColors)
 pl.xticks(Year)
 pl.xlabel("Year")
 pl.ylabel("Revenue")
-pl.title("Dummy Chart")
+pl.title("Bar Chart displaying revenues from 2001-2007")
 
 
 
