@@ -9,4 +9,6 @@ I am currently learning about data visualization along side Full Stack Web Dev a
 ![Final Product](Figure_2.png)
 
 ## Credits.
-Data(csv) files made possible by https://fcpython.com/ and https://wetransfer.com/
+Data(csv) files made possible by 
+- https://fcpython.com/ and 
+- https://wetransfer.com/
